@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "janiceematheusforever"
+  },
+  "targets": {
+    "janiceematheusforever": {
+      "hosting": {
+        "janiceematheusforever": [
+          "janiceematheusforever"
+        ]
+      }
+    }
+  }
+}
